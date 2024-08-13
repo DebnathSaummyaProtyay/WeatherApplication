@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Switch Preference -->
+    <SwitchPreferenceCompat
+        android:key="notifications"
+        android:title="Enable Notifications"
+        android:summary="Receive weather alerts and updates"
+        android:defaultValue="true" />
+
+    <!-- List Preference -->
+    <ListPreference
+        android:key="units"
+        android:title="Units of Measurement"
+        android:summary="Choose between metric and imperial units"
+        android:entries="@array/units"
+        android:entryValues="@array/units_values"
+        android:defaultValue="metric" />
+
+    <!-- EditText Preference -->
+    <EditTextPreference
+        android:key="location"
+        android:title="Default Location"
+        android:summary="Enter your default location for weather updates"
+        android:defaultValue="New York, NY" />
+
+</PreferenceScreen>
