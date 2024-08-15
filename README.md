@@ -30,6 +30,8 @@ _weather_screen.png
 ![6](https://github.com/user-attachments/assets/e1369189-ddce-4dda-aeb2-94b04238ff3f)
 ![5](https://github.com/user-attachments/assets/9518d2cc-8d2a-4416-822f-bd228b582c5a)
 ![4](https://github.com/user-attachments/assets/ea6d83d8-c912-4144-baa6-68d05f94b959)
+![8](https://github.com/user-attachments/assets/2e82a9f8-5932-48e9-bf21-a1adb8b7f2b2)
+
 
 
 ## Getting Started
